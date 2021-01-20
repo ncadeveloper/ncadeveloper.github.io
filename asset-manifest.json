@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a99377b8.chunk.css",
+    "main.js": "/static/js/main.ee6e3eaf.chunk.js",
+    "main.js.map": "/static/js/main.ee6e3eaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03001138.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03001138.js.map",
+    "static/css/2.ec02d681.chunk.css": "/static/css/2.ec02d681.chunk.css",
+    "static/js/2.c2471534.chunk.js": "/static/js/2.c2471534.chunk.js",
+    "static/js/2.c2471534.chunk.js.map": "/static/js/2.c2471534.chunk.js.map",
+    "static/js/3.e870ff27.chunk.js": "/static/js/3.e870ff27.chunk.js",
+    "static/js/3.e870ff27.chunk.js.map": "/static/js/3.e870ff27.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.a99377b8.chunk.css.map": "/static/css/main.a99377b8.chunk.css.map",
+    "static/js/2.c2471534.chunk.js.LICENSE.txt": "/static/js/2.c2471534.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/CaviarDreams_Bold.1062ba91.ttf",
+    "static/media/icon_github.b570b69c.svg": "/static/media/icon_github.b570b69c.svg",
+    "static/media/icon_github_dark.ace89695.svg": "/static/media/icon_github_dark.ace89695.svg",
+    "static/media/icon_search.b1daacff.svg": "/static/media/icon_search.b1daacff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03001138.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.c2471534.chunk.js",
+    "static/css/main.a99377b8.chunk.css",
+    "static/js/main.ee6e3eaf.chunk.js"
+  ]
+}
